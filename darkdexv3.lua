@@ -1,3 +1,6 @@
+--this is the old dark dex v3 for synapse x
+--ill leave it here for whoever wants it
+
 if game:GetService'CoreGui':FindFirstChild'Dex' then
     game:GetService'CoreGui'.Dex:Destroy();
 end
