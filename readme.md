@@ -1,5 +1,5 @@
-currently doesnt work, ill try fixing it later on
+updated, made it work, however it is not the legacy dark dex v3
 -----------------------
-ermm heres the loadstring,
+and heres the loadingstring!!!
 -----------------------
-loadstring(game:HttpGet("https://raw.githubusercontent.com/s-ane/Dark-Dex-V3/refs/heads/main/darkdexv3.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/s-ane/Dark-Dex-V3/refs/heads/main/dexmaster.lua", true))()
